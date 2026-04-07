@@ -38,3 +38,7 @@ Options:
       --no-parallel              Отключить параллельность
   -l, --title-len <N>            Длина title [default: 50]
   ```
+Произволительность оптимизирована:
+11 сек на бюджетном 32-битном планшете (менее 2GB RAM)
+получаем статистику по всем Костромским Губернским Ведомостям (более 7 миллионов слов)
+<img width="974" height="651" alt="image" src="https://github.com/user-attachments/assets/5a54e940-0ee0-43cb-8f8e-d8bebeee1c01" />
