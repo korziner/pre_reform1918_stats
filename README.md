@@ -6,7 +6,7 @@ www.culture.ru/materials/256469/likbez-po-dorevolyucionnoi-orfografii
 
 <img width="663" height="544" alt="image" src="https://github.com/user-attachments/assets/a949f77a-166d-4f17-a325-eee8cb0613fa" />
 
-ПАРАЛЛЕЛЬНАЯ ОБРАБОТКА: rayon на всѣ ядра CPU.
+```ПАРАЛЛЕЛЬНАЯ ОБРАБОТКА: rayon на всѣ ядра CPU.
 
 ФОРМИРОВАНИЕ title:
   • JSONL: изъ поля "title"
@@ -37,3 +37,4 @@ Options:
   -b, --batch-size <N>           Размѣръ пакета [default: 1000]
       --no-parallel              Отключить параллельность
   -l, --title-len <N>            Длина title [default: 50]
+  ```
